@@ -4,8 +4,12 @@ Fetch Data From Api and save to sqflite.
 
 # Demo
 
-<img src ="art/photo_2019-02-01_16-46-16.jpg">
-<img src="art/photo_2019-02-01_16-46-19.jpg">
+<p align="center">
+<img src="art\Screenshot_2019-01-15-10-52-32-008_com.skjdevelopers.apitodbflutter.png" height = "480" width="270"> 
+<img src="art\Screenshot_2019-01-15-10-52-37-960_com.skjdevelopers.apitodbflutter.png" height = "480" width="270"> 
+<img src="art\Screenshot_2019-01-15-10-52-42-233_com.skjdevelopers.apitodbflutter.png" height = "480" width="270">
+<img src="art\Screenshot_2019-01-15-10-52-50-914_com.skjdevelopers.apitodbflutter.png" height = "480" width="270">
+</p>
 
 ## Getting Started
 
